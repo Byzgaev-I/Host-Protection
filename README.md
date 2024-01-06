@@ -19,3 +19,19 @@
 
 ![image](https://github.com/Byzgaev-I/Host-Protection/blob/main/Host-1-4.png)
 
+---  
+  
+### Задание 2  
+
+1. Установите поддержку **LUKS**.
+2. Создайте небольшой раздел, например, 100 Мб.
+3. Зашифруйте созданный раздел с помощью **LUKS**.
+В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
+
+### Решение:
+
+![image](https://github.com/Byzgaev-I/Host-Protection/blob/main/Host-2-1.png)
+
+![image](https://github.com/Byzgaev-I/Host-Protection/blob/main/Host-2-2.png)
+
+![image](https://github.com/Byzgaev-I/Host-Protection/blob/main/Host-2-3.png)
