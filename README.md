@@ -30,6 +30,8 @@
 
 ### Решение:
 
+Сначала создал папку tapok, потом netology.
+
 ![image](https://github.com/Byzgaev-I/Host-Protection/blob/main/Host-2-1.png)
 
 ![image](https://github.com/Byzgaev-I/Host-Protection/blob/main/Host-2-2.png)
